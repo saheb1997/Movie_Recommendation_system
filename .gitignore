@@ -1,1 +1,7 @@
 readme.txt
+*.log
+*.tmp
+*.swp
+node_modules/
+dist/
+.env
