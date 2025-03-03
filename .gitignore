@@ -1,6 +1,8 @@
 readme.txt
 *.log
 *.tmp
+*.bak
+*.old
 *.swp
 node_modules/
 dist/
